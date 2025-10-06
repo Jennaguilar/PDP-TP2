@@ -5,12 +5,6 @@ import { obtenerTareas, obtenerestados } from "./data.js";
 const prompt = PromptSync();
 
 
-
-
-
-
-
-
 // ingresar nueva tarea
 export function ingresarDatos() {
     console.log("========= AGREGAR TAREA ==========");
